@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ln-brie
+- 👀 I’m interested in tabletop roleplaying games, art, music, but curious about everything
+- 🌱 I’m currently learning php frameworks (Symfony, cakePHP, Laravel)
+- 💞️ I’m looking to collaborate on small projects in JS, jQuery, PHP 
