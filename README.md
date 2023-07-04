@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ln-brie
 - 👀 I’m interested in tabletop roleplaying games, art, music, but curious about everything
 - 🌱 I’m currently working on Symfony
-- 💞️ I’m looking to collaborate on projects in JS, jQuery, PHP 
+- 💞️ I’m looking to collaborate on projects in PHP and JS
